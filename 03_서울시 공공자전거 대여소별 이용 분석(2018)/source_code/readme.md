@@ -2543,7 +2543,7 @@ plt.imshow(img)
 
 
 
-![png](qwe_files/qwe_66_1.png)
+![png](readme_files/readme_66_1.png)
 
 
 위의 서울시지도를 배경으로 하고 경도와 위도를 각각 x축 y축으로 놓아 산점도를 표시할 것이다. 그림상의 픽셀과 위도 경도의 위치를 맞추기 위하여 특수한 공식으로 위도와 경도값을 바꾼다.
@@ -2849,11 +2849,11 @@ plt.show()
 ```
 
 
-![png](qwe_files/qwe_73_0.png)
+![png](readme_files/readme_73_0.png)
 
 
 
-![png](qwe_files/qwe_73_1.png)
+![png](readme_files/readme_73_1.png)
 
 
         그림만봐도 알 수 있듯이 지난 1년간 자전거 대여소의 수는 큰폭으로 늘었다. 실제로 자전거 대여소의 수는 전년대비 약 170.13% 증가하였다. 그림에서 보면 알 수 있듯이 2017년에 마포구, 서대문구, 중구, 동대문구, 용산구, 성동구등 중앙에 밀집되어 분포 되어있었다. 하지만 2018년에는 상대적으로 적었던 강북, 강남지역 까지 고르게 퍼진것을 알 수 있다.
@@ -3053,11 +3053,11 @@ plt.show()
 ```
 
 
-![png](qwe_files/qwe_80_0.png)
+![png](readme_files/readme_80_0.png)
 
 
 
-![png](qwe_files/qwe_80_1.png)
+![png](readme_files/readme_80_1.png)
 
 
 
@@ -3306,11 +3306,11 @@ plt.show()
 ```
 
 
-![png](qwe_files/qwe_88_0.png)
+![png](readme_files/readme_88_0.png)
 
 
 
-![png](qwe_files/qwe_88_1.png)
+![png](readme_files/readme_88_1.png)
 
 
         회수율이 낮은 대여소를 살펴보면 주로 학교나 회사가 밀집되어 있는 곳이었고 회수율이 높은 대여소를 살펴보면 주로 주거지역이었다. 그리고 지도를 보면 알 수 있듯이 1년간 회수율이 0에 가까운 곳의 분포가 더 높아 졌다는것을 알 수 있다.
@@ -3393,23 +3393,23 @@ plt.show()
 ```
 
 
-![png](qwe_files/qwe_94_0.png)
+![png](readme_files/readme_94_0.png)
 
 
 
-![png](qwe_files/qwe_94_1.png)
+![png](readme_files/readme_94_1.png)
 
 
 
-![png](qwe_files/qwe_94_2.png)
+![png](readme_files/readme_94_2.png)
 
 
 
-![png](qwe_files/qwe_94_3.png)
+![png](readme_files/readme_94_3.png)
 
 
 
-![png](qwe_files/qwe_94_4.png)
+![png](readme_files/readme_94_4.png)
 
 
 
@@ -3674,23 +3674,23 @@ plt.show()
 ```
 
 
-![png](qwe_files/qwe_103_0.png)
+![png](readme_files/readme_103_0.png)
 
 
 
-![png](qwe_files/qwe_103_1.png)
+![png](readme_files/readme_103_1.png)
 
 
 
-![png](qwe_files/qwe_103_2.png)
+![png](readme_files/readme_103_2.png)
 
 
 
-![png](qwe_files/qwe_103_3.png)
+![png](readme_files/readme_103_3.png)
 
 
 
-![png](qwe_files/qwe_103_4.png)
+![png](readme_files/readme_103_4.png)
 
 
 ## (6) 참고문헌
