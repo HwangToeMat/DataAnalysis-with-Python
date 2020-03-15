@@ -696,15 +696,15 @@ plt.show()
 ```
 
 
-![png](qwe_files/qwe_8_0.png)
+![png](readme_files/readme_8_0.png)
 
 
 
-![png](qwe_files/qwe_8_1.png)
+![png](readme_files/readme_8_1.png)
 
 
 
-![png](qwe_files/qwe_8_2.png)
+![png](readme_files/readme_8_2.png)
 
 
 
@@ -732,15 +732,15 @@ plt.show()
 ```
 
 
-![png](qwe_files/qwe_9_0.png)
+![png](readme_files/readme_9_0.png)
 
 
 
-![png](qwe_files/qwe_9_1.png)
+![png](readme_files/readme_9_1.png)
 
 
 
-![png](qwe_files/qwe_9_2.png)
+![png](readme_files/readme_9_2.png)
 
 
 
@@ -970,13 +970,13 @@ plt.show()
 ```
 
 
-![png](qwe_files/qwe_12_0.png)
+![png](readme_files/readme_12_0.png)
 
 
 
-![png](qwe_files/qwe_12_1.png)
+![png](readme_files/readme_12_1.png)
 
 
 
-![png](qwe_files/qwe_12_2.png)
+![png](readme_files/readme_12_2.png)
 
