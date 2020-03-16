@@ -1490,6 +1490,10 @@ drawKorea('인천', raw_data, 'YlGnBu')
 drawKorea('대전', raw_data, 'YlGnBu')
 ```
 
+
+![png](readme_files/readme_45_0.png)
+
+
 ## 결론
 
 #### 위의 자료를 이용하여 우리 지역에 많이 오는 지역을 조사하여 해당 지역와 같이 마케팅을 하면 더 큰 이율을 창출 할 수 있을 것이다.
