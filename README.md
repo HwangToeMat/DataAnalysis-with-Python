@@ -1,4 +1,4 @@
-# DataAnalysis-with-Python
+# DataAnalysis-with-Python ![HitCount](http://hits.dwyl.com/HwangToeMat/DataAnalysis-with-Python.svg)
 '파이썬으로 데이터 주무르기'라는 책을 참고하여 다양한 데이터들을 파이썬으로 직접 분석해 본다.
 ### 01) 서울시 자치구별 노인 복지수준 분석 <a href="https://github.com/HwangToeMat/DataAnalysis-with-Python/tree/master/01_%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%9E%90%EC%B9%98%EA%B5%AC%EB%B3%84%20%EB%85%B8%EC%9D%B8%20%EB%B3%B5%EC%A7%80%EC%88%98%EC%A4%80%20%EB%B6%84%EC%84%9D/sorce_code">[main code]</a>
 서울시 구별 노인복지시설과 노인인구수 데이터를 비교하여 상관관계를 비교해보고 구별 복지수준을 분석해 본다.
