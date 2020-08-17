@@ -47,7 +47,12 @@ naver api를 사용해서 네이버 블로그에서 더본코리아의 11개의 
 
 ![png](https://github.com/HwangToeMat/HwangToeMat.github.io/blob/master/assets/img/thumbnail/dwp-11.jpg?raw=true)
 
-## 10) 머신러닝으로 타이타닉 생존자 예측하기 <a href="https://hwangtoemat.github.io/dataanalysis-with-python/2019-06-11-%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89-%EC%83%9D%EC%A1%B4%EC%9E%90-%EC%98%88%EC%B8%A1-Decision-tree-%EC%99%80-Randomforest-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0/">[DecisionTree & RandomForest]</a>
+### 10) 머신러닝으로 타이타닉 생존자 예측하기 <a href="https://hwangtoemat.github.io/dataanalysis-with-python/2019-06-11-%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89-%EC%83%9D%EC%A1%B4%EC%9E%90-%EC%98%88%EC%B8%A1-Decision-tree-%EC%99%80-Randomforest-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0/">[DecisionTree & RandomForest]</a>
 타이타닉 생존자 데이터를 분석하며 Decision tree 와 Randomforest 비교해 본다.
 
 ![png](https://github.com/HwangToeMat/HwangToeMat.github.io/blob/master/assets/img/thumbnail/dwp-13.png?raw=true)
+
+### 11) 원자재가격과 주가의 관계 분석 <a href="https://github.com/HwangToeMat/Raw-Material-Price-and-Stock-Price">[main code]</a>
+각종 원자재 가격과 주가의 상관관계를 알아보기위해 5년간 KOSPI 주가의 등락과 원자재가격의 등락을 비교하고 해당기업과 원자재 간의 관계를 해석해 보았다.
+
+![png](https://github.com/HwangToeMat/HwangToeMat.github.io/blob/master/assets/img/thumbnail/dwp-9.jpg?raw=true)
