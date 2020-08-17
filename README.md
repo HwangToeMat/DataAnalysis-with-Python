@@ -1,4 +1,4 @@
-# DataAnalysis-with-Python ![HitCount](http://hits.dwyl.com/HwangToeMat/DataAnalysis-with-Python.svg) <a href="https://hwangtoemat.github.io/dataanalysis-with-python/">[GithubIO]</a>
+# DataAnalysis-with-Python <a href="https://hwangtoemat.github.io/dataanalysis-with-python/">[GithubIO]</a> ![HitCount](http://hits.dwyl.com/HwangToeMat/DataAnalysis-with-Python.svg) 
 '파이썬으로 데이터 주무르기'라는 책을 참고하여 다양한 데이터들을 파이썬으로 직접 분석해 본다.
 
 
